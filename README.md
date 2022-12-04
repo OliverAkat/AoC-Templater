@@ -17,3 +17,5 @@ $ python create_year.py [year] [days (start-end)]
 	      ├─ day[day].py		The file you will write your soulutions in 
 	      ├─ input			The file with the input data
 	      └─ sample			Optional file where you can put any sample input
+
+Change template.py to your liking :)
