@@ -1,6 +1,9 @@
 # AoC-Templater
 
 ## Usage
+
+Get your session cookie by going to [Advent of Code](https://adventofcode.com/), opening the developer console > Storage > Cookies, and put it in the [main.py](./main.py) file
+
 To create a folder structure for the current year and day
 ```bash
 $ python main.py
